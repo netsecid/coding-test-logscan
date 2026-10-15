@@ -1,0 +1,16 @@
+Jan 12 03:14:15 srv-01 sshd[1234]: Failed password for root from 203.0.113.7 port 51234 ssh2
+Jan 12 03:14:20 srv-01 sshd[1235]: Failed password for invalid user admin from 203.0.113.7 port 51240 ssh2
+Jan 12 03:14:25 srv-01 sshd[1236]: Failed password for root from 203.0.113.7 port 51241 ssh2
+Jan 12 03:14:30 srv-01 sshd[1237]: Failed password for root from 203.0.113.7 port 51242 ssh2
+Jan 12 03:14:35 srv-01 sshd[1238]: Failed password for root from 203.0.113.7 port 51243 ssh2
+Jan 12 03:15:40 srv-01 sshd[1239]: Failed password for nobody from 203.0.113.7 port 51244 ssh2
+Jan 12 03:16:00 srv-01 sshd[1240]: Invalid user oracle from 203.0.113.7 port 51250 ssh2
+Jan 12 03:17:02 srv-01 sshd[1241]: Accepted password for alice from 198.51.100.22 port 40222 ssh2
+Jan 12 03:18:11 srv-01 sshd[1242]: Connection closed by authenticating user root 203.0.113.7 port 51300 [preauth]
+Jan 12 03:19:07 srv-01 sshd[1243]: Failed password for bob from 2001:db8::1 port 51411 ssh2
+Jan 12 03:20:00 srv-01 cron[9999]: (root) CMD (/usr/bin/backup.sh)
+baris ini sengaja rusak karena tidak punya timestamp syslog
+Jan 12 03:21:00 srv-01 sshd[1244]: Accepted publickey for bob from 2001:db8::1 port 51420 ssh2
+Jan 12 04:02:05 srv-02 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/ls
+
+Jan  2 09:00:00 srv-01 sshd[1250]: Failed password for carol from 192.0.2.55 port 1000 ssh2

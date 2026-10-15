@@ -1,0 +1,786 @@
+Jan 12 20:38:11 web-03 sshd[7924]: Failed password for ubuntu from 198.51.100.20 port 48776 ssh2
+Jan 12 10:22:17 web-03 sshd[7061]: Failed password for deploy from 203.0.113.21 port 7223 ssh2
+Jan 12 13:30:51 web-03 sshd[2904]: Failed password for bob from 198.51.100.66 port 40017 ssh2
+Jan 12 16:41:31 srv-02 sshd[7518]: Accepted password for alice from 198.51.100.10 port 52298 ssh2
+Jan 12 01:43:55 web-03 sshd[2778]: Accepted password for admin from 203.0.113.37 port 10937 ssh2
+Jan 12 18:01:23 web-03 sshd[5000]: Accepted password for deploy from 198.51.100.14 port 60137 ssh2
+Jan 12 08:35:08 web-03 sshd[3506]: Accepted password for carol from 198.51.100.37 port 42072 ssh2
+Jan 12 13:30:36 web-03 sshd[9672]: Failed password for root from 198.51.100.66 port 40012 ssh2
+Jan 12 07:31:18 srv-01 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 16:24:49 srv-01 sshd[1915]: Accepted password for bob from 203.0.113.36 port 51382 ssh2
+Jan 12 18:50:07 srv-01 sshd[8899]: Failed password for deploy from 203.0.113.28 port 25232 ssh2
+Jan 12 10:50:27 srv-02 sshd[7989]: Failed password for root from 203.0.113.29 port 17562 ssh2
+Jan 12 08:43:49 srv-01 sshd[2161]: Invalid user alicex from 198.51.100.33 port 15313
+Jan 12 10:48:02 srv-02 sshd[3706]: Accepted password for admin from 198.51.100.5 port 7688 ssh2
+Jan 12 08:06:21 web-03 sshd[1280]: Failed password for deploy from 198.51.100.10 port 58260 ssh2
+Jan 12 14:35:41 srv-01 sshd[3404]: Connection closed by authenticating user deploy 198.51.100.22 port 2997 [preauth]
+Jan 12 18:09:41 srv-02 sshd[7333]: Accepted password for ubuntu from 203.0.113.37 port 61010 ssh2
+Jan 12 11:42:23 web-03 sshd[5730]: Accepted password for carol from 203.0.113.7 port 30736 ssh2
+Jan 12 15:34:34 web-03 sshd[1693]: Accepted password for ubuntu from 203.0.113.30 port 56014 ssh2
+Jan 12 07:23:49 srv-01 sshd[2751]: Accepted password for alice from 198.51.100.30 port 5276 ssh2
+Jan 12 15:32:15 web-03 sshd[1768]: Accepted password for alice from 203.0.113.38 port 59709 ssh2
+Jan 12 17:39:49 srv-01 sshd[4787]: Invalid user alicex from 198.51.100.21 port 4531
+Jan 12 17:13:29 web-03 sshd[6780]: Accepted password for root from 203.0.113.31 port 43739 ssh2
+Jan 12 01:39:52 srv-01 sshd[2147]: Accepted password for oracle from 203.0.113.35 port 23229 ssh2
+Jan 12 22:05:25 srv-01 sshd[7184]: Failed password for bob from 203.0.113.4 port 55640 ssh2
+Jan 12 05:21:10 web-03 sshd[6134]: Accepted password for admin from 203.0.113.32 port 16690 ssh2
+Jan 12 13:15:32 srv-01 sshd[7435]: Accepted password for deploy from 203.0.113.23 port 11905 ssh2
+Jan 12 01:57:41 web-03 sshd[6285]: Accepted password for alice from 198.51.100.32 port 58393 ssh2
+Jan 12 21:04:24 srv-02 sshd[3256]: Accepted password for admin from 203.0.113.36 port 64703 ssh2
+Jan 12 18:57:56 srv-02 sshd[1278]: Failed password for oracle from 198.51.100.38 port 50975 ssh2
+Jan 12 20:27:49 srv-02 sshd[2581]: Accepted password for admin from 198.51.100.12 port 1854 ssh2
+Jan 12 00:54:57 srv-02 sshd[9010]: Accepted password for root from 203.0.113.21 port 6288 ssh2
+Jan 12 13:30:15 web-03 sshd[8829]: Failed password for bob from 198.51.100.66 port 40005 ssh2
+Jan 12 05:17:06 srv-02 sshd[6700]: Failed password for root from 2001:db8::1 port 64217 ssh2
+Jan 12 11:15:43 web-03 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 17:32:34 web-03 sshd[5993]: Accepted password for carol from 198.51.100.12 port 18063 ssh2
+Jan 12 00:14:28 srv-01 sshd[4224]: Failed password for carol from 203.0.113.8 port 42639 ssh2
+Jan 12 19:22:37 srv-02 sshd[6179]: Connection closed by authenticating user carol 203.0.113.15 port 40075 [preauth]
+Jan 12 11:57:38 srv-02 sshd[7209]: Accepted password for ubuntu from 198.51.100.10 port 13975 ssh2
+Jan 12 21:33:31 srv-01 sshd[5847]: Accepted password for bob from 203.0.113.11 port 60667 ssh2
+Jan 12 18:59:14 web-03 sshd[8680]: Accepted password for bob from 198.51.100.38 port 23395 ssh2
+Jan 12 02:54:38 web-03 sshd[2108]: Failed password for ubuntu from 198.51.100.30 port 14141 ssh2
+Jan 12 00:11:00 srv-02 sshd[6140]: Accepted password for admin from 198.51.100.22 port 12244 ssh2
+Jan 12 06:38:36 srv-02 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 14:17:54 web-03 sshd[1457]: Accepted password for ubuntu from 198.51.100.5 port 63751 ssh2
+Jan 12 08:32:52 web-03 sshd[1845]: Accepted password for admin from 203.0.113.7 port 63919 ssh2
+Jan 12 11:29:52 srv-01 sshd[3322]: Failed password for admin from 198.51.100.29 port 37190 ssh2
+Jan 12 07:06:32 srv-01 sshd[1760]: Accepted password for admin from 198.51.100.22 port 32008 ssh2
+Jan 12 14:32:03 srv-02 sshd[4815]: Accepted password for deploy from 203.0.113.7 port 40088 ssh2
+Jan 12 06:12:16 srv-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 11:22:18 srv-02 sshd[2465]: Invalid user bobx from 198.51.100.28 port 22426
+Jan 12 11:52:08 web-03 sshd[5156]: Accepted password for root from 198.51.100.34 port 34032 ssh2
+Jan 12 13:30:57 web-03 sshd[4204]: Failed password for ubuntu from 198.51.100.66 port 40019 ssh2
+Jan 12 03:14:25 srv-01 sshd[6161]: Failed password for admin from 203.0.113.7 port 51239 ssh2
+Jan 12 00:15:58 srv-01 sshd[6149]: Accepted password for alice from 203.0.113.27 port 61089 ssh2
+Jan 12 05:49:56 srv-02 sshd[2120]: Accepted password for deploy from 198.51.100.15 port 47228 ssh2
+Jan 12 06:48:27 srv-01 sshd[2488]: Invalid user alicex from 198.51.100.5 port 32746
+Jan 12 21:17:22 web-03 sshd[3221]: Accepted password for bob from 198.51.100.13 port 34423 ssh2
+Jan 12 13:30:09 web-03 sshd[4743]: Failed password for oracle from 198.51.100.66 port 40003 ssh2
+Jan 12 09:51:33 srv-02 sshd[4789]: Accepted password for ubuntu from 203.0.113.25 port 35202 ssh2
+Jan 12 06:34:24 web-03 sshd[6683]: Accepted password for oracle from 203.0.113.32 port 31289 ssh2
+Jan 12 01:14:12 web-03 sshd[7788]: Failed password for alice from 203.0.113.21 port 1484 ssh2
+Jan 12 19:25:51 srv-01 sshd[2146]: Accepted password for root from 198.51.100.39 port 42002 ssh2
+Jan 12 22:53:58 web-03 sshd[9570]: Accepted password for deploy from 203.0.113.9 port 16787 ssh2
+Jan 12 19:38:18 srv-02 sshd[9291]: Accepted password for ubuntu from 203.0.113.19 port 1202 ssh2
+Jan 12 15:29:31 srv-01 sshd[1360]: Accepted password for ubuntu from 198.51.100.3 port 44213 ssh2
+Jan 12 12:02:43 web-03 sshd[5959]: Accepted password for deploy from 203.0.113.31 port 64576 ssh2
+Jan 12 21:45:41 srv-01 sshd[3699]: Accepted password for alice from 198.51.100.4 port 20456 ssh2
+Jan 12 18:22:25 srv-02 sshd[6866]: Accepted password for carol from 203.0.113.14 port 46124 ssh2
+Jan 12 01:27:58 srv-02 sshd[9037]: Accepted password for admin from 198.51.100.5 port 47525 ssh2
+Jan 12 10:36:24 srv-01 sshd[2626]: Accepted password for deploy from 198.51.100.19 port 57233 ssh2
+Jan 12 03:14:10 srv-01 sshd[5792]: Failed password for root from 203.0.113.7 port 51236 ssh2
+Jan 12 09:10:11 srv-02 sshd[1003]: Failed password for carol from 198.51.100.9 port 25482 ssh2
+Jan 12 07:35:52 srv-02 sshd[9359]: Accepted password for deploy from 203.0.113.32 port 11977 ssh2
+Jan 12 18:06:43 srv-01 sshd[2254]: Accepted password for deploy from 198.51.100.30 port 5505 ssh2
+Jan 12 07:07:40 web-03 sshd[6502]: Accepted password for admin from 198.51.100.15 port 16816 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 07:58:53 web-03 sshd[2670]: Failed password for deploy from 198.51.100.13 port 4694 ssh2
+Jan 12 19:36:55 srv-02 sshd[5049]: Accepted password for root from 203.0.113.11 port 10913 ssh2
+Jan 12 09:03:58 web-03 sshd[3178]: Accepted password for bob from 203.0.113.28 port 13438 ssh2
+Jan 12 21:51:37 srv-02 sshd[7314]: Accepted password for root from 203.0.113.29 port 47321 ssh2
+Jan 12 12:05:01 web-03 sudo:    root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 20:11:51 srv-01 sshd[9391]: Failed password for bob from 203.0.113.39 port 61510 ssh2
+Jan 12 14:59:49 web-03 sshd[6195]: Connection closed by authenticating user ubuntu 203.0.113.29 port 53188 [preauth]
+Jan 12 19:28:21 srv-01 sshd[3316]: Accepted password for alice from 198.51.100.19 port 2851 ssh2
+Jan 12 01:03:52 web-03 sshd[7630]: Accepted password for oracle from 203.0.113.15 port 37071 ssh2
+Jan 12 03:58:49 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 04:25:27 srv-01 sshd[1470]: Accepted password for carol from 203.0.113.35 port 24494 ssh2
+Jan 12 11:33:20 srv-01 sudo:    carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 19:39:20 web-03 sshd[9200]: Accepted password for oracle from 198.51.100.20 port 43292 ssh2
+Jan 12 03:47:32 web-03 sshd[9137]: Accepted password for carol from 198.51.100.8 port 5538 ssh2
+Jan 12 05:41:36 web-03 sshd[2038]: Accepted password for bob from 198.51.100.5 port 19046 ssh2
+Jan 12 15:48:50 srv-01 sshd[9973]: Failed password for bob from 203.0.113.21 port 30275 ssh2
+Jan 12 10:44:26 srv-01 sudo:    deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 05:11:21 web-03 sshd[5424]: Connection closed by authenticating user carol 203.0.113.18 port 63304 [preauth]
+Jan 12 04:07:15 srv-01 sshd[6492]: Failed password for bob from 198.51.100.34 port 27889 ssh2
+Jan 12 02:20:55 srv-01 sshd[6627]: Failed password for alice from 2001:db8::1 port 62477 ssh2
+Jan 12 17:15:00 srv-02 sshd[4136]: Accepted password for alice from 198.51.100.35 port 55269 ssh2
+Jan 12 01:10:24 srv-02 sshd[5006]: Accepted password for carol from 203.0.113.5 port 54015 ssh2
+Jan 12 09:04:52 srv-01 sshd[7461]: Invalid user bobx from 203.0.113.9 port 37558
+Jan 12 20:02:52 web-03 sshd[6264]: Accepted password for bob from 203.0.113.31 port 39105 ssh2
+Jan 12 07:46:55 web-03 sshd[2170]: Failed password for bob from 203.0.113.34 port 54931 ssh2
+Jan 12 14:27:08 web-03 sshd[3132]: Failed password for ubuntu from 203.0.113.18 port 58210 ssh2
+Jan 12 22:07:24 web-03 sshd[6214]: Invalid user bobx from 203.0.113.16 port 51143
+Jan 12 09:52:31 web-03 sshd[2852]: Accepted password for oracle from 198.51.100.19 port 43133 ssh2
+Jan 12 11:39:44 srv-01 sshd[2054]: Connection closed by authenticating user ubuntu 203.0.113.19 port 14042 [preauth]
+Jan 12 18:40:23 web-03 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 04:22:02 web-03 sshd[5524]: Accepted password for ubuntu from 198.51.100.35 port 47453 ssh2
+Jan 12 15:06:19 srv-02 sshd[9089]: Invalid user deployx from 2001:db8::1 port 47575
+Jan 12 13:47:09 srv-02 sshd[5111]: Connection closed by authenticating user alice 203.0.113.27 port 56142 [preauth]
+Jan 12 20:36:43 web-03 sshd[9999]: Accepted password for carol from 198.51.100.27 port 55881 ssh2
+Jan 12 10:53:18 srv-01 sshd[4444]: Accepted password for deploy from 198.51.100.29 port 15535 ssh2
+Jan 12 03:14:30 srv-01 sshd[4405]: Failed password for root from 203.0.113.7 port 51240 ssh2
+Jan 12 18:03:03 web-03 sshd[6630]: Accepted password for deploy from 198.51.100.6 port 23456 ssh2
+Jan 12 04:57:16 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 04:55:18 web-03 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 17:14:17 srv-01 sshd[4999]: Accepted password for admin from 198.51.100.7 port 1789 ssh2
+Jan 12 07:49:37 web-03 sshd[8978]: Failed password for carol from 198.51.100.18 port 50487 ssh2
+Jan 12 16:27:22 web-03 sshd[7787]: Connection closed by authenticating user admin 198.51.100.15 port 59360 [preauth]
+Jan 12 15:02:53 srv-01 sshd[1692]: Failed password for root from 203.0.113.11 port 7147 ssh2
+Jan 12 01:32:06 srv-02 sshd[8111]: Failed password for root from 203.0.113.7 port 64589 ssh2
+Jan 12 20:51:05 web-03 sshd[3579]: Accepted password for root from 2001:db8::1 port 53024 ssh2
+Jan 12 22:02:28 srv-01 sshd[5025]: Accepted password for root from 198.51.100.8 port 18971 ssh2
+Jan 12 09:37:44 srv-02 sshd[7065]: Accepted password for bob from 198.51.100.18 port 7339 ssh2
+Jan 12 12:30:03 srv-02 sshd[3986]: Accepted password for bob from 198.51.100.9 port 50244 ssh2
+Jan 12 17:58:41 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 20:58:22 srv-01 sshd[4606]: Failed password for oracle from 198.51.100.8 port 50551 ssh2
+Jan 12 22:10:06 web-03 sshd[9251]: Invalid user oraclex from 203.0.113.15 port 10146
+Jan 12 13:16:57 srv-01 sshd[1387]: Invalid user oraclex from 198.51.100.9 port 47546
+Jan 12 03:09:45 srv-01 sshd[6441]: Accepted password for alice from 203.0.113.25 port 35358 ssh2
+Jan 12 05:19:55 srv-02 sshd[3370]: Failed password for ubuntu from 203.0.113.19 port 26474 ssh2
+Jan 12 03:30:22 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 02:49:49 srv-01 sshd[2824]: Accepted password for ubuntu from 198.51.100.3 port 3224 ssh2
+Jan 12 20:01:27 web-03 sshd[8030]: Accepted password for oracle from 203.0.113.35 port 51551 ssh2
+Jan 12 20:17:36 srv-02 sshd[5152]: Failed password for carol from 203.0.113.12 port 63276 ssh2
+Jan 12 06:53:54 web-03 sshd[8430]: Accepted password for admin from 203.0.113.15 port 55977 ssh2
+Jan 12 08:23:17 srv-01 sshd[4581]: Accepted password for ubuntu from 203.0.113.15 port 39998 ssh2
+Jan 12 10:56:06 srv-01 sshd[6594]: Accepted password for oracle from 203.0.113.19 port 4933 ssh2
+Jan 12 01:22:11 srv-02 sshd[4661]: Connection closed by authenticating user oracle 2001:db8::2 port 63720 [preauth]
+Jan 12 14:55:06 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 10:04:20 web-03 sshd[6700]: Accepted password for carol from 203.0.113.20 port 53287 ssh2
+Jan 12 11:35:38 srv-02 sshd[2165]: Failed password for oracle from 203.0.113.6 port 11331 ssh2
+Jan 12 05:25:35 srv-02 sshd[5123]: Failed password for oracle from 203.0.113.10 port 13288 ssh2
+Jan 12 06:57:08 web-03 sshd[5699]: Failed password for carol from 203.0.113.37 port 56253 ssh2
+Jan 12 04:08:54 web-03 sshd[3981]: Accepted password for bob from 203.0.113.27 port 58652 ssh2
+Jan 12 14:12:38 srv-01 sshd[4954]: Accepted password for ubuntu from 198.51.100.39 port 30228 ssh2
+Jan 12 13:25:14 srv-02 sshd[9318]: Accepted password for carol from 198.51.100.7 port 60058 ssh2
+Jan 12 05:40:20 srv-02 sshd[9695]: Accepted password for deploy from 198.51.100.24 port 57094 ssh2
+Jan 12 19:17:04 srv-01 sshd[7662]: Accepted password for ubuntu from 198.51.100.26 port 18631 ssh2
+Jan 12 18:18:23 web-03 sshd[6735]: Accepted password for root from 203.0.113.18 port 46363 ssh2
+Jan 12 19:51:39 srv-01 sshd[6739]: Accepted password for ubuntu from 203.0.113.6 port 55864 ssh2
+Jan 12 00:13:37 web-03 sshd[9608]: Accepted password for alice from 203.0.113.27 port 42858 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 02:43:48 srv-02 sshd[2789]: Accepted password for carol from 198.51.100.19 port 23304 ssh2
+Jan 12 04:16:04 web-03 sshd[8797]: Accepted password for bob from 198.51.100.2 port 42893 ssh2
+Jan 12 13:45:04 srv-01 sshd[4291]: Failed password for bob from 203.0.113.38 port 43723 ssh2
+Jan 12 22:23:40 srv-01 sshd[9262]: Accepted password for oracle from 198.51.100.39 port 55067 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 20:30:49 web-03 sshd[2515]: Accepted password for alice from 2001:db8::1 port 15231 ssh2
+Jan 12 00:32:37 srv-02 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+-- rotasi log: berkas log di-truncate oleh logrotate --
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 17:03:09 web-03 sshd[4261]: Accepted password for alice from 198.51.100.29 port 18479 ssh2
+Jan 12 22:51:28 srv-02 sshd[9535]: Accepted password for alice from 198.51.100.5 port 62536 ssh2
+Jan 12 02:47:45 srv-02 sshd[4585]: Failed password for alice from 203.0.113.23 port 60693 ssh2
+Jan 12 05:44:34 srv-02 sshd[6225]: Connection closed by authenticating user bob 198.51.100.38 port 6180 [preauth]
+Jan 12 14:44:49 srv-01 sshd[1836]: Accepted password for admin from 198.51.100.21 port 8503 ssh2
+Jan 12 05:14:56 web-03 sshd[7131]: Failed password for alice from 198.51.100.27 port 50471 ssh2
+Jan 12 03:14:15 srv-01 sshd[6690]: Failed password for admin from 203.0.113.7 port 51237 ssh2
+Jan 12 00:18:39 srv-01 sshd[1826]: Accepted password for deploy from 198.51.100.31 port 13147 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 05:50:46 srv-02 sshd[4126]: Accepted password for root from 203.0.113.24 port 9220 ssh2
+Jan 12 03:14:00 srv-01 sshd[3451]: Failed password for root from 203.0.113.7 port 51234 ssh2
+Jan 12 07:17:46 srv-02 sshd[8099]: Accepted password for root from 203.0.113.35 port 45924 ssh2
+Jan 12 00:23:35 web-03 sshd[1965]: Accepted password for alice from 203.0.113.35 port 9575 ssh2
+Jan 12 05:35:31 srv-01 sshd[4520]: Accepted password for deploy from 203.0.113.7 port 11459 ssh2
+Jan 12 11:38:03 srv-02 sshd[7955]: Accepted password for bob from 203.0.113.7 port 14779 ssh2
+Jan 12 20:14:47 web-03 sshd[2463]: Accepted password for root from 203.0.113.7 port 38515 ssh2
+Jan 12 04:14:04 srv-01 sshd[4664]: Accepted password for oracle from 198.51.100.35 port 61469 ssh2
+Jan 12 22:48:13 web-03 sshd[4369]: Accepted password for deploy from 203.0.113.12 port 45488 ssh2
+Jan 12 16:13:53 srv-02 sshd[9665]: Accepted password for root from 198.51.100.3 port 6631 ssh2
+Jan 12 07:01:33 srv-01 sshd[2174]: Accepted password for alice from 203.0.113.16 port 35032 ssh2
+Jan 12 20:05:05 srv-02 sshd[2806]: Failed password for deploy from 192.0.2.200 port 33001 ssh2
+Jan 12 09:34:56 srv-02 sshd[6390]: Connection closed by authenticating user alice 203.0.113.25 port 38196 [preauth]
+Jan 12 13:56:15 srv-01 sshd[2276]: Failed password for deploy from 198.51.100.2 port 23516 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 13:01:56 srv-01 sshd[4425]: Accepted password for ubuntu from 203.0.113.9 port 62289 ssh2
+Jan 12 10:34:00 srv-01 sshd[9086]: Accepted password for bob from 203.0.113.20 port 6780 ssh2
+Jan 12 16:01:13 srv-01 sshd[4849]: Failed password for deploy from 203.0.113.39 port 29060 ssh2
+Jan 12 08:57:59 srv-02 sshd[1168]: Accepted password for admin from 198.51.100.35 port 8057 ssh2
+Jan 12 14:14:23 srv-02 sudo:    carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 19:45:51 web-03 sshd[1354]: Connection closed by authenticating user oracle 198.51.100.26 port 33362 [preauth]
+Jan 12 21:22:46 srv-02 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 04:26:29 web-03 sshd[1603]: Accepted password for deploy from 203.0.113.30 port 25657 ssh2
+Jan 12 01:31:17 web-03 sshd[7525]: Accepted password for root from 203.0.113.9 port 35667 ssh2
+Jan 12 16:22:28 srv-02 sshd[6062]: Invalid user adminx from 198.51.100.24 port 33548
+Jan 12 05:58:28 srv-01 sshd[1098]: Accepted password for oracle from 203.0.113.20 port 49114 ssh2
+Jan 12 12:59:36 web-03 sshd[4652]: Accepted password for carol from 203.0.113.8 port 21578 ssh2
+Jan 12 17:42:14 srv-02 sshd[6009]: Accepted password for alice from 198.51.100.38 port 12961 ssh2
+Jan 12 06:15:00 srv-02 sshd[5604]: Failed password for oracle from 192.0.2.99 port 34001 ssh2
+Jan 12 18:05:29 srv-01 sshd[1596]: Accepted password for admin from 198.51.100.24 port 39071 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 01:01:09 srv-02 sshd[2678]: Accepted password for root from 198.51.100.18 port 42327 ssh2
+Jan 12 16:48:34 srv-02 sshd[5821]: Accepted password for root from 203.0.113.39 port 59640 ssh2
+Jan 12 04:53:40 web-03 sudo:    bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 17:24:05 srv-01 sshd[4628]: Accepted password for oracle from 198.51.100.20 port 24147 ssh2
+Jan 12 08:01:21 srv-02 sshd[6623]: Failed password for ubuntu from 198.51.100.37 port 10551 ssh2
+Jan 12 09:39:45 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 17:27:45 web-03 sshd[2205]: Accepted password for oracle from 203.0.113.30 port 40602 ssh2
+Jan 12 19:56:31 srv-02 sshd[2368]: Accepted password for oracle from 198.51.100.28 port 29403 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 11:06:17 srv-02 sshd[2575]: Accepted password for carol from 198.51.100.8 port 63140 ssh2
+Jan 12 02:18:48 web-03 sshd[3527]: Failed password for root from 198.51.100.37 port 21837 ssh2
+Jan 12 00:05:14 web-03 sshd[4357]: Accepted password for bob from 198.51.100.3 port 46710 ssh2
+Jan 12 11:18:11 srv-02 sshd[5373]: Accepted password for ubuntu from 203.0.113.31 port 15589 ssh2
+Jan 12 12:45:15 srv-01 sshd[4955]: Accepted password for deploy from 203.0.113.22 port 12282 ssh2
+Jan 12 15:40:56 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 15:21:36 srv-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 05:47:34 web-03 sshd[9362]: Failed password for oracle from 198.51.100.22 port 29800 ssh2
+Jan 12 19:12:03 srv-01 sshd[6141]: Accepted password for oracle from 198.51.100.28 port 31152 ssh2
+Jan 12 19:55:24 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 08:08:41 web-03 sshd[2838]: Failed password for admin from 203.0.113.12 port 16728 ssh2
+Jan 12 02:30:38 srv-02 sshd[8821]: Failed password for root from 203.0.113.38 port 35431 ssh2
+Jan 12 13:48:45 srv-02 sshd[7267]: Accepted password for bob from 203.0.113.19 port 39402 ssh2
+Jan 12 16:43:13 web-03 sshd[2682]: Accepted password for carol from 198.51.100.22 port 39192 ssh2
+Jan 12 10:24:11 srv-02 sshd[7045]: Accepted password for deploy from 203.0.113.14 port 50221 ssh2
+Jan 12 01:42:07 web-03 sshd[8738]: Connection closed by authenticating user oracle 203.0.113.22 port 58557 [preauth]
+Jan 12 20:05:58 srv-02 sshd[7072]: Accepted password for alice from 198.51.100.18 port 43465 ssh2
+Jan 12 12:55:51 srv-01 sshd[1430]: Accepted password for carol from 203.0.113.39 port 61405 ssh2
+Jan 12 12:17:23 srv-01 sshd[7608]: Accepted password for admin from 198.51.100.20 port 22563 ssh2
+Jan 12 15:45:17 web-03 sshd[3291]: Accepted password for carol from 203.0.113.19 port 7420 ssh2
+Jan 12 09:49:02 srv-02 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 09:15:56 web-03 sshd[2722]: Accepted password for alice from 203.0.113.30 port 11048 ssh2
+Jan 12 09:20:42 srv-02 sshd[2965]: Failed password for deploy from 203.0.113.6 port 33436 ssh2
+Jan 12 19:23:49 web-03 sshd[4123]: Failed password for oracle from 198.51.100.4 port 30649 ssh2
+Jan 12 03:18:06 srv-01 sshd[6079]: Failed password for alice from 198.51.100.34 port 50662 ssh2
+Jan 12 12:37:03 web-03 sudo:    oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 20:08:58 srv-01 sshd[9621]: Failed password for root from 198.51.100.27 port 57249 ssh2
+Jan 12 03:03:59 srv-01 sshd[5385]: Accepted password for deploy from 203.0.113.14 port 24794 ssh2
+Jan 12 04:10:33 srv-02 sshd[2453]: Accepted password for admin from 198.51.100.32 port 27932 ssh2
+Jan 12 14:08:16 web-03 sshd[7569]: Connection closed by authenticating user deploy 203.0.113.5 port 31934 [preauth]
+Jan 12 23:00:53 web-03 sshd[5422]: Accepted password for deploy from 198.51.100.2 port 64043 ssh2
+Jan 12 11:12:35 srv-01 sshd[5802]: Invalid user alicex from 198.51.100.13 port 11850
+Jan 12 00:48:19 srv-01 sshd[1856]: Failed password for ubuntu from 203.0.113.16 port 20769 ssh2
+Jan 12 03:26:20 srv-02 sshd[8870]: Accepted password for alice from 203.0.113.28 port 20652 ssh2
+Jan 12 06:26:50 web-03 sshd[6867]: Invalid user deployx from 203.0.113.11 port 8548
+Jan 12 09:55:09 web-03 sshd[5676]: Invalid user ubuntux from 198.51.100.17 port 36937
+Jan 12 00:39:25 srv-02 sshd[7229]: Accepted password for ubuntu from 198.51.100.38 port 42740 ssh2
+Jan 12 09:18:00 web-03 sshd[8029]: Accepted password for oracle from 203.0.113.24 port 1955 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 12:25:47 srv-01 sshd[7388]: Accepted password for ubuntu from 203.0.113.16 port 26612 ssh2
+Jan 12 13:30:45 web-03 sshd[7452]: Failed password for oracle from 198.51.100.66 port 40015 ssh2
+Jan 12 20:05:00 srv-02 sshd[7241]: Failed password for deploy from 192.0.2.200 port 33000 ssh2
+Jan 12 05:54:27 srv-01 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 22:36:35 srv-02 sshd[5318]: Failed password for root from 198.51.100.24 port 10879 ssh2
+Jan 12 19:07:38 srv-02 sshd[9818]: Accepted password for carol from 198.51.100.7 port 30482 ssh2
+Jan 12 14:28:31 srv-01 sshd[6085]: Accepted password for alice from 198.51.100.30 port 48578 ssh2
+Jan 12 18:52:00 srv-02 sshd[4398]: Invalid user carolx from 198.51.100.30 port 12599
+Jan 12 17:08:47 web-03 sshd[6406]: Accepted password for deploy from 198.51.100.38 port 55674 ssh2
+Jan 12 05:51:37 srv-01 sshd[9886]: Accepted password for ubuntu from 198.51.100.36 port 42254 ssh2
+Jan 12 10:38:09 web-03 sshd[9153]: Accepted password for alice from 198.51.100.29 port 24134 ssh2
+Jan 12 09:56:42 srv-01 sshd[5822]: Accepted password for root from 203.0.113.10 port 26094 ssh2
+Jan 12 15:07:18 web-03 sshd[6284]: Accepted password for root from 198.51.100.34 port 42864 ssh2
+Jan 12 08:31:07 web-03 sshd[8249]: Accepted password for root from 203.0.113.24 port 21754 ssh2
+Jan 12 04:18:07 srv-01 sudo:    root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 03:15:22 srv-02 sshd[6145]: Failed password for bob from 203.0.113.8 port 41074 ssh2
+Jan 12 03:39:44 srv-01 sshd[5507]: Connection closed by authenticating user alice 198.51.100.14 port 30945 [preauth]
+Jan 12 13:52:56 web-03 sshd[4110]: Accepted password for alice from 203.0.113.19 port 14102 ssh2
+Jan 12 19:54:06 srv-01 sshd[8138]: Connection closed by authenticating user root 198.51.100.5 port 19456 [preauth]
+Jan 12 09:12:47 srv-02 sshd[7230]: Accepted password for carol from 203.0.113.26 port 41674 ssh2
+Jan 12 06:51:35 web-03 sshd[5560]: Failed password for alice from 198.51.100.9 port 31936 ssh2
+Jan 12 02:35:47 web-03 sshd[8183]: Accepted password for alice from 198.51.100.38 port 56035 ssh2
+Jan 12 06:22:14 srv-01 sshd[6449]: Accepted password for bob from 203.0.113.38 port 32899 ssh2
+Jan 12 17:07:00 srv-01 sshd[7712]: Accepted password for deploy from 203.0.113.5 port 38694 ssh2
+Jan 12 00:16:41 web-03 sshd[1750]: Failed password for bob from 198.51.100.19 port 16018 ssh2
+Jan 12 03:22:07 srv-01 sshd[7085]: Accepted password for bob from 198.51.100.5 port 2033 ssh2
+Jan 12 12:13:32 srv-02 sshd[1063]: Accepted password for alice from 203.0.113.12 port 8638 ssh2
+Jan 12 12:11:28 srv-02 sshd[3117]: Connection closed by authenticating user ubuntu 198.51.100.18 port 11484 [preauth]
+Jan 12 19:43:51 srv-01 sshd[7532]: Accepted password for ubuntu from 198.51.100.4 port 25207 ssh2
+Jan 12 06:21:24 web-03 sshd[1275]: Accepted password for admin from 203.0.113.36 port 1248 ssh2
+Jan 12 20:05:20 srv-02 sshd[7235]: Failed password for deploy from 192.0.2.200 port 33004 ssh2
+Jan 12 13:34:54 web-03 sshd[8610]: Accepted password for bob from 198.51.100.32 port 19692 ssh2
+Jan 12 22:20:23 web-03 sshd[9524]: Accepted password for deploy from 203.0.113.13 port 57118 ssh2
+Jan 12 06:04:29 web-03 sshd[2560]: Connection closed by authenticating user alice 198.51.100.5 port 55450 [preauth]
+Jan 12 07:37:57 web-03 sshd[7872]: Accepted password for alice from 198.51.100.33 port 29614 ssh2
+Jan 12 16:08:20 web-03 sshd[5477]: Failed password for admin from 198.51.100.9 port 30072 ssh2
+Jan 12 15:17:51 srv-02 sshd[6984]: Failed password for admin from 203.0.113.30 port 21921 ssh2
+Jan 12 08:25:46 srv-02 sshd[4204]: Accepted password for admin from 203.0.113.38 port 16978 ssh2
+Jan 12 19:35:33 srv-01 sshd[2829]: Accepted password for oracle from 203.0.113.16 port 50164 ssh2
+Jan 12 14:00:53 web-03 sshd[3234]: Failed password for deploy from 198.51.100.22 port 58805 ssh2
+Jan 12 21:15:08 srv-02 sshd[9695]: Failed password for deploy from 203.0.113.34 port 1955 ssh2
+Jan 12 19:47:35 web-03 sshd[4484]: Invalid user adminx from 203.0.113.6 port 55421
+Jan 12 00:43:18 web-03 sshd[5509]: Accepted password for root from 198.51.100.7 port 62087 ssh2
+Jan 12 11:58:35 web-03 sshd[1636]: Accepted password for carol from 198.51.100.20 port 4023 ssh2
+Jan 12 14:50:25 srv-01 sshd[8158]: Accepted password for bob from 203.0.113.30 port 62282 ssh2
+Jan 12 14:19:50 srv-02 sshd[1517]: Accepted password for bob from 198.51.100.35 port 4248 ssh2
+Jan 12 19:13:47 web-03 sshd[5368]: Failed password for carol from 203.0.113.2 port 2085 ssh2
+Jan 12 08:11:20 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 14:47:28 srv-02 sshd[3858]: Connection closed by authenticating user root 198.51.100.27 port 55005 [preauth]
+Jan 12 08:46:31 web-03 sshd[3776]: Accepted password for root from 203.0.113.10 port 8276 ssh2
+Jan 12 01:02:32 srv-01 sshd[4174]: Failed password for root from 198.51.100.2 port 57311 ssh2
+Jan 12 02:08:51 srv-02 sshd[6701]: Failed password for admin from 203.0.113.14 port 9593 ssh2
+Jan 12 19:08:20 web-03 sudo:    carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 11:44:11 srv-01 sshd[8388]: Accepted password for admin from 203.0.113.3 port 16635 ssh2
+Jan 12 22:04:28 srv-01 sshd[2160]: Accepted password for ubuntu from 203.0.113.6 port 62347 ssh2
+Jan 12 20:49:10 web-03 sshd[6224]: Failed password for deploy from 198.51.100.24 port 37154 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 19:49:11 web-03 sshd[7581]: Accepted password for root from 203.0.113.18 port 54847 ssh2
+Jan 12 21:30:33 web-03 sshd[8514]: Connection closed by authenticating user alice 203.0.113.24 port 38243 [preauth]
+Jan 12 06:49:49 srv-01 sshd[5433]: Accepted password for root from 198.51.100.32 port 8963 ssh2
+Jan 12 21:59:38 srv-02 sshd[7943]: Failed password for admin from 198.51.100.38 port 53774 ssh2
+Jan 12 08:37:28 srv-02 sshd[8464]: Connection closed by authenticating user admin 198.51.100.21 port 4890 [preauth]
+Jan 12 07:09:58 web-03 sshd[8827]: Accepted password for oracle from 203.0.113.26 port 17758 ssh2
+Jan 12 00:10:16 web-03 sshd[6092]: Accepted password for bob from 198.51.100.15 port 49359 ssh2
+Jan 12 18:20:53 srv-02 sshd[3749]: Accepted password for root from 198.51.100.29 port 54154 ssh2
+Jan 12 07:19:53 web-03 sshd[8838]: Failed password for admin from 198.51.100.28 port 8919 ssh2
+Jan 12 05:08:11 srv-01 sshd[8295]: Accepted password for carol from 203.0.113.10 port 47555 ssh2
+Jan 12 09:29:59 srv-02 sshd[6952]: Accepted password for carol from 203.0.113.31 port 38365 ssh2
+Jan 12 10:05:51 web-03 sshd[1920]: Invalid user oraclex from 198.51.100.33 port 51586
+Jan 12 19:03:47 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 05:09:32 srv-02 sshd[8169]: Accepted password for root from 203.0.113.2 port 40486 ssh2
+Jan 12 17:11:41 srv-02 sshd[4685]: Connection closed by authenticating user ubuntu 198.51.100.26 port 39855 [preauth]
+Jan 12 16:34:31 srv-01 sshd[8080]: Accepted password for deploy from 203.0.113.8 port 15684 ssh2
+Jan 12 13:09:46 srv-02 sshd[5213]: Failed password for carol from 203.0.113.27 port 25134 ssh2
+Jan 12 15:43:48 srv-01 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 21:48:00 web-03 sshd[6791]: Connection closed by authenticating user admin 198.51.100.20 port 42634 [preauth]
+Jan 12 21:12:26 srv-01 sshd[8481]: Accepted password for admin from 203.0.113.4 port 3451 ssh2
+Jan 12 15:37:56 srv-02 sshd[4825]: Accepted password for deploy from 198.51.100.8 port 12633 ssh2
+Jan 12 12:27:55 web-03 sshd[1619]: Accepted password for admin from 198.51.100.26 port 17438 ssh2
+Jan 12 06:10:00 srv-02 sshd[1496]: Failed password for oracle from 192.0.2.99 port 34000 ssh2
+Jan 12 02:51:23 web-03 sshd[7743]: Accepted password for oracle from 203.0.113.26 port 29595 ssh2
+Jan 12 03:45:08 srv-02 sshd[6555]: Accepted password for carol from 198.51.100.30 port 63173 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 10:40:50 srv-01 sshd[9257]: Invalid user alicex from 203.0.113.25 port 1569
+Jan 12 13:04:22 srv-02 sshd[2297]: Accepted password for oracle from 198.51.100.25 port 15767 ssh2
+Jan 12 00:25:51 web-03 sshd[1702]: Accepted password for deploy from 198.51.100.18 port 48011 ssh2
+Jan 12 10:19:42 srv-02 sshd[1982]: Accepted password for bob from 203.0.113.8 port 13511 ssh2
+Jan 12 03:24:42 srv-01 sshd[3088]: Failed password for bob from 198.51.100.25 port 16191 ssh2
+Jan 12 03:02:21 srv-01 sshd[3067]: Accepted password for alice from 203.0.113.37 port 44882 ssh2
+Jan 12 08:15:13 web-03 sshd[9157]: Accepted password for carol from 203.0.113.10 port 51231 ssh2
+Jan 12 01:45:27 srv-01 sshd[1911]: Accepted password for deploy from 203.0.113.21 port 1172 ssh2
+Jan 12 20:43:56 srv-01 sshd[2413]: Failed password for alice from 198.51.100.23 port 35132 ssh2
+Jan 12 14:09:53 srv-02 sshd[3155]: Accepted password for ubuntu from 198.51.100.12 port 34025 ssh2
+Jan 12 16:38:12 srv-02 sshd[5837]: Accepted password for ubuntu from 203.0.113.31 port 11728 ssh2
+Jan 12 14:53:44 srv-02 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 20:52:02 srv-01 sshd[7102]: Failed password for ubuntu from 198.51.100.38 port 58299 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 22:11:39 web-03 sshd[3652]: Accepted password for oracle from 198.51.100.6 port 7088 ssh2
+Jan 12 09:31:00 web-03 sshd[6917]: Accepted password for bob from 198.51.100.2 port 3670 ssh2
+Jan 12 03:35:37 srv-01 sshd[9751]: Accepted password for oracle from 203.0.113.29 port 62622 ssh2
+Jan 12 08:12:44 srv-01 sshd[1631]: Invalid user deployx from 203.0.113.10 port 16946
+Jan 12 06:25:12 web-03 sshd[9974]: Accepted password for bob from 203.0.113.34 port 39924 ssh2
+Jan 12 07:42:10 web-03 sshd[9893]: Failed password for bob from 198.51.100.7 port 26326 ssh2
+Jan 12 09:42:29 web-03 sshd[3474]: Accepted password for deploy from 203.0.113.17 port 41999 ssh2
+Jan 12 07:44:04 web-03 sshd[1796]: Accepted password for bob from 198.51.100.28 port 1460 ssh2
+Jan 12 00:28:21 srv-02 sshd[7233]: Failed password for deploy from 203.0.113.9 port 23784 ssh2
+Jan 12 01:52:41 web-03 sshd[5691]: Accepted password for oracle from 203.0.113.14 port 21794 ssh2
+Jan 12 12:22:45 web-03 sshd[2151]: Accepted password for carol from 198.51.100.21 port 13169 ssh2
+Jan 12 10:10:37 srv-02 sshd[3635]: Failed password for alice from 203.0.113.25 port 19447 ssh2
+Jan 12 16:47:03 srv-01 sshd[6731]: Accepted password for root from 203.0.113.26 port 32590 ssh2
+Jan 12 14:02:49 srv-02 sshd[3400]: Accepted password for oracle from 203.0.113.24 port 34947 ssh2
+Jan 12 21:23:39 web-03 sshd[1662]: Failed password for bob from 198.51.100.7 port 24676 ssh2
+Jan 12 01:54:43 srv-02 sshd[2456]: Accepted password for root from 203.0.113.34 port 23326 ssh2
+Jan 12 04:20:40 srv-01 sshd[6984]: Invalid user rootx from 198.51.100.29 port 42228
+Jan 12 13:55:19 web-03 sshd[1461]: Accepted password for admin from 198.51.100.12 port 28332 ssh2
+Jan 12 13:30:24 web-03 sshd[3320]: Failed password for git from 198.51.100.66 port 40008 ssh2
+Jan 12 08:21:36 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 03:28:43 web-03 sshd[6361]: Failed password for root from 203.0.113.34 port 45343 ssh2
+Jan 12 13:30:12 web-03 sshd[5692]: Failed password for alice from 198.51.100.66 port 40004 ssh2
+Jan 12 06:30:05 srv-01 sshd[3294]: Accepted password for bob from 198.51.100.35 port 26523 ssh2
+Jan 12 19:29:46 web-03 sshd[5446]: Accepted password for alice from 203.0.113.19 port 45320 ssh2
+Jan 12 18:54:09 srv-01 sshd[4150]: Failed password for bob from 203.0.113.27 port 15169 ssh2
+Jan 12 21:38:11 srv-01 sshd[7471]: Accepted password for root from 198.51.100.26 port 49683 ssh2
+Jan 12 20:05:25 srv-02 sshd[2856]: Failed password for deploy from 192.0.2.200 port 33005 ssh2
+Jan 12 11:08:17 srv-01 sshd[2976]: Accepted password for bob from 198.51.100.32 port 51120 ssh2
+Jan 12 10:46:41 srv-02 sshd[2257]: Accepted password for alice from 203.0.113.11 port 62800 ssh2
+Jan 12 04:33:50 web-03 sshd[2233]: Connection closed by authenticating user admin 203.0.113.35 port 19885 [preauth]
+Jan 12 15:35:59 srv-01 sshd[9302]: Accepted password for root from 203.0.113.22 port 15241 ssh2
+Jan 12 03:00:27 srv-02 sshd[5203]: Connection closed by authenticating user bob 198.51.100.33 port 31051 [preauth]
+Jan 12 12:31:38 srv-01 sshd[4174]: Accepted password for deploy from 198.51.100.20 port 5636 ssh2
+Jan 12 02:00:40 srv-01 sshd[2206]: Failed password for carol from 198.51.100.30 port 29857 ssh2
+Jan 12 10:45:55 srv-01 sshd[8888]: Accepted password for deploy from 203.0.113.27 port 9785 ssh2
+Jan 12 16:15:52 srv-02 sshd[3539]: Connection closed by authenticating user alice 198.51.100.7 port 39923 [preauth]
+Jan 12 02:37:14 web-03 sshd[1585]: Failed password for root from 198.51.100.4 port 27498 ssh2
+Jan 12 19:44:33 srv-02 sshd[6184]: Accepted password for carol from 198.51.100.29 port 42242 ssh2
+Jan 12 00:51:04 web-03 sshd[5534]: Accepted password for oracle from 198.51.100.9 port 61902 ssh2
+Jan 12 17:00:31 srv-01 sshd[6128]: Invalid user deployx from 2001:db8::2 port 46674
+Jan 12 22:21:07 srv-01 sshd[2345]: Invalid user carolx from 203.0.113.31 port 23754
+Jan 12 06:01:16 web-03 sshd[2767]: Accepted password for carol from 198.51.100.30 port 27265 ssh2
+Jan 12 15:33:40 web-03 sshd[4253]: Accepted password for deploy from 198.51.100.10 port 42614 ssh2
+Jan 12 12:04:20 srv-02 sshd[7839]: Invalid user alicex from 203.0.113.14 port 31312
+Jan 12 15:20:23 srv-02 sshd[3373]: Accepted password for admin from 198.51.100.22 port 23225 ssh2
+Jan 12 02:11:16 srv-01 sshd[6684]: Accepted password for admin from 203.0.113.21 port 46826 ssh2
+Jan 12 05:39:12 web-03 sshd[6387]: Accepted password for deploy from 198.51.100.16 port 51117 ssh2
+Jan 12 14:58:36 srv-02 sshd[2606]: Accepted password for alice from 198.51.100.30 port 48416 ssh2
+Jan 12 21:27:49 web-03 sshd[4605]: Accepted password for alice from 203.0.113.11 port 3972 ssh2
+Jan 12 02:04:32 web-03 sshd[7359]: Accepted password for ubuntu from 198.51.100.39 port 25833 ssh2
+Jan 12 17:20:15 srv-01 sshd[9207]: Accepted password for ubuntu from 203.0.113.11 port 27976 ssh2
+Jan 12 07:15:06 srv-01 sshd[9369]: Accepted password for bob from 203.0.113.24 port 33595 ssh2
+Jan 12 15:01:43 web-03 sshd[1102]: Accepted password for admin from 203.0.113.33 port 31550 ssh2
+Jan 12 18:41:07 srv-02 sshd[5054]: Failed password for bob from 198.51.100.6 port 22952 ssh2
+Jan 12 13:26:00 srv-02 sshd[3889]: Invalid user deployx from 198.51.100.10 port 6292
+Jan 12 08:54:06 srv-02 sshd[5801]: Accepted password for admin from 203.0.113.8 port 4461 ssh2
+Jan 12 04:59:23 web-03 sshd[5914]: Accepted password for deploy from 198.51.100.11 port 14974 ssh2
+Jan 12 21:49:24 web-03 sshd[2666]: Accepted password for root from 198.51.100.26 port 19600 ssh2
+Jan 12 11:11:17 srv-01 sshd[1778]: Accepted password for deploy from 198.51.100.11 port 62608 ssh2
+Jan 12 03:51:54 srv-02 sshd[2951]: Failed password for admin from 198.51.100.31 port 6621 ssh2
+Jan 12 04:23:31 srv-02 sshd[3428]: Invalid user deployx from 203.0.113.30 port 6495
+Jan 12 04:47:22 web-03 sshd[9779]: Failed password for carol from 198.51.100.5 port 17999 ssh2
+Jan 12 01:36:16 srv-01 sshd[6950]: Failed password for ubuntu from 198.51.100.38 port 51605 ssh2
+Jan 12 11:30:40 web-03 sshd[2058]: Failed password for oracle from 203.0.113.8 port 10183 ssh2
+Jan 12 22:01:17 srv-01 sshd[7265]: Accepted password for carol from 203.0.113.30 port 61748 ssh2
+Jan 12 13:30:18 web-03 sshd[6211]: Failed password for carol from 198.51.100.66 port 40006 ssh2
+Jan 12 13:33:32 web-03 sudo:    bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 17:51:57 srv-01 sshd[2332]: Accepted password for root from 203.0.113.35 port 50798 ssh2
+Jan 12 06:20:00 srv-02 sshd[1806]: Failed password for oracle from 192.0.2.99 port 34002 ssh2
+Jan 12 04:01:48 srv-01 sshd[7981]: Accepted password for deploy from 203.0.113.35 port 51103 ssh2
+Jan 12 13:30:27 web-03 sshd[2652]: Failed password for jenkins from 198.51.100.66 port 40009 ssh2
+Jan 12 20:03:36 srv-02 sshd[5033]: Accepted password for ubuntu from 203.0.113.35 port 18249 ssh2
+Jan 12 14:33:40 web-03 sshd[4806]: Accepted password for deploy from 198.51.100.18 port 31560 ssh2
+Jan 12 13:38:01 srv-02 sshd[2011]: Accepted password for ubuntu from 203.0.113.26 port 17220 ssh2
+Jan 12 07:48:22 srv-01 sshd[5613]: Accepted password for root from 203.0.113.20 port 30110 ssh2
+Jan 12 16:52:37 web-03 sshd[4105]: Failed password for admin from 203.0.113.25 port 23251 ssh2
+Jan 12 14:34:59 srv-01 sshd[3682]: Accepted password for root from 203.0.113.28 port 56075 ssh2
+Jan 12 18:31:33 srv-02 sshd[5853]: Accepted password for bob from 203.0.113.19 port 53326 ssh2
+Jan 12 21:06:43 web-03 sshd[5468]: Failed password for admin from 203.0.113.36 port 46379 ssh2
+Jan 12 01:47:07 srv-02 sshd[9441]: Accepted password for admin from 198.51.100.3 port 5149 ssh2
+Jan 12 14:43:08 srv-02 sshd[3954]: Accepted password for admin from 198.51.100.24 port 31858 ssh2
+Jan 12 06:06:10 web-03 sshd[4139]: Accepted password for alice from 203.0.113.28 port 19438 ssh2
+Jan 12 22:26:05 srv-01 sshd[7061]: Accepted password for root from 198.51.100.32 port 50080 ssh2
+Jan 12 10:11:32 web-03 sshd[6728]: Failed password for alice from 198.51.100.16 port 37770 ssh2
+Jan 12 18:52:47 srv-01 sshd[9296]: Accepted password for alice from 203.0.113.29 port 10646 ssh2
+Jan 12 20:05:15 srv-02 sshd[1874]: Failed password for deploy from 192.0.2.200 port 33003 ssh2
+Jan 12 14:24:32 web-03 sshd[1848]: Connection closed by authenticating user carol 203.0.113.15 port 23654 [preauth]
+Jan 12 03:53:28 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 00:46:03 web-03 sshd[9262]: Accepted password for carol from 203.0.113.19 port 62840 ssh2
+Jan 12 08:28:26 web-03 sshd[2924]: Connection closed by authenticating user deploy 198.51.100.18 port 11413 [preauth]
+Jan 12 04:11:46 srv-01 sshd[4488]: Accepted password for bob from 203.0.113.6 port 27891 ssh2
+Jan 12 10:17:39 srv-01 sshd[5178]: Accepted password for carol from 198.51.100.25 port 58839 ssh2
+Jan 12 03:04:58 srv-01 sshd[1391]: Accepted password for alice from 198.51.100.30 port 29163 ssh2
+Jan 12 04:29:49 srv-02 sshd[5423]: Accepted password for ubuntu from 203.0.113.29 port 58614 ssh2
+Jan 12 19:18:04 srv-01 sshd[3194]: Failed password for bob from 198.51.100.6 port 52449 ssh2
+Jan 12 19:19:56 srv-01 sshd[2069]: Accepted password for admin from 198.51.100.8 port 43647 ssh2
+Jan 12 19:05:40 srv-01 sshd[9640]: Accepted password for admin from 198.51.100.18 port 1167 ssh2
+Jan 12 08:56:01 web-03 sshd[1727]: Failed password for carol from 198.51.100.38 port 17900 ssh2
+Jan 12 13:03:01 web-03 sshd[5634]: Invalid user deployx from 198.51.100.27 port 24978
+Jan 12 05:05:47 srv-02 sshd[3053]: Accepted password for oracle from 198.51.100.10 port 63698 ssh2
+Jan 12 20:25:01 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 17:35:34 srv-01 sshd[7579]: Accepted password for oracle from 203.0.113.16 port 12895 ssh2
+Jan 12 11:54:39 srv-02 sshd[2059]: Accepted password for admin from 198.51.100.13 port 27855 ssh2
+Jan 12 09:59:40 web-03 sshd[8614]: Invalid user bobx from 198.51.100.8 port 63038
+Jan 12 12:07:02 srv-02 sshd[8110]: Connection closed by authenticating user carol 203.0.113.2 port 63207 [preauth]
+Jan 12 07:32:04 web-03 sshd[1141]: Failed password for root from 198.51.100.27 port 46688 ssh2
+Jan 12 12:39:04 web-03 sshd[7048]: Accepted password for bob from 198.51.100.35 port 13901 ssh2
+Jan 12 22:32:29 srv-02 sshd[4801]: Accepted password for oracle from 198.51.100.11 port 43678 ssh2
+Jan 12 14:03:54 srv-01 sshd[5545]: Failed password for carol from 198.51.100.29 port 63958 ssh2
+Jan 12 18:17:24 srv-01 sshd[2244]: Connection closed by authenticating user carol 203.0.113.8 port 30911 [preauth]
+Jan 12 03:49:19 srv-01 sshd[4648]: Accepted password for ubuntu from 198.51.100.7 port 4166 ssh2
+Jan 12 17:17:20 srv-01 sshd[6458]: Failed password for bob from 198.51.100.8 port 24542 ssh2
+Jan 12 13:31:52 web-03 sudo:    bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 07:40:54 web-03 sshd[8563]: Accepted password for admin from 203.0.113.35 port 57792 ssh2
+Jan 12 13:12:40 web-03 sshd[4000]: Accepted password for bob from 198.51.100.18 port 43813 ssh2
+Jan 12 09:07:21 web-03 sshd[7822]: Failed password for deploy from 203.0.113.6 port 47476 ssh2
+Jan 12 04:34:48 srv-02 sshd[5508]: Connection closed by authenticating user ubuntu 203.0.113.36 port 63749 [preauth]
+Jan 12 15:58:27 srv-02 sshd[4128]: Failed password for admin from 198.51.100.9 port 29975 ssh2
+Jan 12 07:25:33 srv-01 sshd[8441]: Accepted password for ubuntu from 203.0.113.34 port 8968 ssh2
+Jan 12 16:44:58 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 06:41:23 web-03 sshd[8201]: Failed password for oracle from 198.51.100.12 port 14866 ssh2
+Jan 12 07:00:34 srv-01 sshd[2966]: Accepted password for oracle from 198.51.100.20 port 36785 ssh2
+Jan 12 12:15:39 web-03 sshd[5166]: Accepted password for alice from 203.0.113.17 port 57561 ssh2
+Jan 12 08:40:58 srv-02 sshd[4034]: Accepted password for alice from 198.51.100.30 port 7835 ssh2
+Jan 12 11:03:25 srv-02 sshd[3433]: Accepted password for admin from 203.0.113.28 port 9290 ssh2
+Jan 12 15:53:11 srv-02 sshd[7399]: Accepted password for ubuntu from 198.51.100.35 port 61392 ssh2
+Jan 12 04:28:07 web-03 sshd[3785]: Connection closed by authenticating user deploy 203.0.113.35 port 59996 [preauth]
+Jan 12 09:54:15 web-03 sshd[8077]: Accepted password for admin from 198.51.100.23 port 21063 ssh2
+Jan 12 12:12:25 srv-01 sshd[8842]: Accepted password for bob from 198.51.100.8 port 10867 ssh2
+Jan 12 13:30:21 web-03 sshd[5161]: Failed password for ubuntu from 198.51.100.66 port 40007 ssh2
+Jan 12 09:13:49 srv-01 sshd[1092]: Accepted password for carol from 198.51.100.39 port 39688 ssh2
+Jan 12 02:17:57 srv-01 sshd[1907]: Invalid user adminx from 203.0.113.5 port 63055
+Jan 12 00:07:27 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 08:56:59 srv-02 sshd[4884]: Failed password for admin from 203.0.113.12 port 22952 ssh2
+Jan 12 06:52:28 srv-02 sshd[8750]: Failed password for bob from 203.0.113.3 port 64197 ssh2
+Jan 12 10:45:12 web-03 sshd[8017]: Accepted password for admin from 203.0.113.29 port 48926 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 02:25:14 srv-01 sshd[2179]: Accepted password for carol from 198.51.100.18 port 30333 ssh2
+Jan 12 11:27:14 web-03 sshd[4669]: Failed password for oracle from 198.51.100.25 port 20352 ssh2
+Jan 12 01:08:12 srv-02 sshd[3230]: Accepted password for oracle from 203.0.113.11 port 56614 ssh2
+Jan 12 10:58:46 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 09:14:44 web-03 sshd[7539]: Failed password for deploy from 203.0.113.22 port 42127 ssh2
+Jan 12 01:19:23 srv-02 sshd[4010]: Accepted password for deploy from 203.0.113.3 port 45239 ssh2
+Jan 12 06:02:02 srv-02 sshd[8888]: Failed password for alice from 198.51.100.34 port 9344 ssh2
+Jan 12 09:45:09 srv-01 sshd[8474]: Accepted password for bob from 198.51.100.14 port 8366 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 07:03:19 web-03 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 10:14:57 web-03 sshd[5993]: Accepted password for carol from 203.0.113.12 port 42745 ssh2
+Jan 12 08:45:18 srv-02 sshd[7853]: Accepted password for admin from 198.51.100.20 port 34661 ssh2
+Jan 12 18:37:39 srv-01 sshd[9004]: Accepted password for bob from 198.51.100.26 port 24654 ssh2
+Jan 12 09:34:00 srv-01 sshd[8231]: Accepted password for oracle from 198.51.100.5 port 59977 ssh2
+Jan 12 12:32:34 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 11:45:49 web-03 sshd[4818]: Accepted password for bob from 198.51.100.20 port 61743 ssh2
+Jan 12 07:52:52 srv-01 sshd[7721]: Accepted password for ubuntu from 203.0.113.11 port 45995 ssh2
+Jan 12 12:41:43 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 07:05:32 web-03 sshd[8340]: Accepted password for deploy from 203.0.113.21 port 9789 ssh2
+Jan 12 17:47:19 srv-02 sshd[8920]: Accepted password for oracle from 198.51.100.7 port 37163 ssh2
+Jan 12 18:46:37 srv-02 sshd[9378]: Accepted password for alice from 198.51.100.36 port 56292 ssh2
+Jan 12 18:56:42 srv-02 sshd[5968]: Accepted password for ubuntu from 203.0.113.39 port 23738 ssh2
+Jan 12 09:24:13 web-03 sshd[4630]: Accepted password for ubuntu from 203.0.113.2 port 59445 ssh2
+Jan 12 12:26:48 srv-02 sshd[9677]: Accepted password for admin from 198.51.100.27 port 63859 ssh2
+Jan 12 12:00:38 srv-01 sshd[1719]: Failed password for alice from 203.0.113.33 port 9216 ssh2
+Jan 12 18:30:26 srv-01 sshd[2418]: Accepted password for admin from 203.0.113.22 port 17188 ssh2
+Jan 12 15:52:29 web-03 sshd[8936]: Accepted password for deploy from 203.0.113.26 port 32055 ssh2
+Jan 12 10:01:37 srv-02 sshd[1421]: Accepted password for root from 203.0.113.33 port 34772 ssh2
+Jan 12 13:40:49 srv-01 sshd[3090]: Accepted password for ubuntu from 198.51.100.5 port 32377 ssh2
+Jan 12 00:57:34 web-03 sshd[4883]: Invalid user rootx from 203.0.113.24 port 11662
+Jan 12 08:51:59 srv-01 sshd[5126]: Accepted password for deploy from 198.51.100.35 port 10949 ssh2
+Jan 12 20:31:34 srv-02 sshd[4000]: Accepted password for bob from 198.51.100.26 port 16863 ssh2
+Jan 12 07:27:43 web-03 sshd[1926]: Failed password for root from 198.51.100.19 port 59586 ssh2
+Jan 12 06:19:21 web-03 sshd[4459]: Failed password for ubuntu from 203.0.113.3 port 20144 ssh2
+Jan 12 01:38:31 srv-01 sshd[7696]: Accepted password for deploy from 203.0.113.20 port 53598 ssh2
+Jan 12 16:58:39 srv-02 sshd[6939]: Failed password for root from 203.0.113.38 port 42103 ssh2
+Jan 12 06:25:00 srv-02 sshd[9990]: Failed password for oracle from 192.0.2.99 port 34003 ssh2
+Jan 12 04:49:07 srv-02 sshd[9397]: Accepted password for oracle from 198.51.100.23 port 48344 ssh2
+Jan 12 00:21:25 web-03 sshd[9885]: Connection closed by authenticating user ubuntu 203.0.113.5 port 32978 [preauth]
+Jan 12 05:03:24 srv-01 sshd[3967]: Failed password for oracle from 203.0.113.28 port 19060 ssh2
+Jan 12 22:13:42 srv-02 sshd[9635]: Failed password for deploy from 203.0.113.36 port 23299 ssh2
+Jan 12 16:36:43 srv-02 sshd[2447]: Accepted password for ubuntu from 203.0.113.19 port 7993 ssh2
+Jan 12 07:12:21 srv-01 sshd[4659]: Accepted password for root from 203.0.113.5 port 20957 ssh2
+Jan 12 08:59:51 srv-01 sshd[8301]: Accepted password for oracle from 198.51.100.4 port 34131 ssh2
+Jan 12 19:11:18 web-03 sshd[2019]: Accepted password for bob from 198.51.100.19 port 6659 ssh2
+Jan 12 04:38:55 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 20:16:23 srv-02 sshd[6089]: Accepted password for admin from 203.0.113.8 port 7519 ssh2
+Jan 12 08:16:40 srv-02 sshd[2144]: Accepted password for alice from 203.0.113.12 port 6646 ssh2
+Jan 12 13:30:00 web-03 sshd[4923]: Failed password for root from 198.51.100.66 port 40000 ssh2
+Jan 12 19:33:59 web-03 sshd[6680]: Accepted password for carol from 203.0.113.26 port 4607 ssh2
+Jan 12 06:07:58 srv-02 sshd[6448]: Accepted password for root from 198.51.100.8 port 43083 ssh2
+Jan 12 22:17:28 web-03 sshd[6267]: Accepted password for oracle from 198.51.100.24 port 44711 ssh2
+Jan 12 20:34:05 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 01:20:51 srv-01 sshd[9568]: Accepted password for carol from 203.0.113.26 port 37113 ssh2
+Jan 12 21:56:47 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 12:29:02 srv-01 sshd[1843]: Invalid user carolx from 198.51.100.12 port 59279
+Jan 12 22:27:43 web-03 sshd[4046]: Accepted password for root from 198.51.100.24 port 33709 ssh2
+Jan 12 22:59:35 srv-01 sshd[4433]: Accepted password for deploy from 203.0.113.31 port 22668 ssh2
+Jan 12 02:02:08 web-03 sshd[9020]: Accepted password for carol from 198.51.100.3 port 35428 ssh2
+Jan 12 02:46:07 srv-02 sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 10:43:40 web-03 sshd[2817]: Accepted password for deploy from 203.0.113.27 port 38300 ssh2
+Jan 12 04:45:45 srv-01 sshd[7358]: Accepted password for carol from 203.0.113.9 port 4676 ssh2
+Jan 12 16:40:29 web-03 sshd[4486]: Accepted password for alice from 198.51.100.12 port 30158 ssh2
+Jan 12 13:37:20 srv-02 sshd[9614]: Accepted password for bob from 2001:db8::1 port 37238 ssh2
+Jan 12 01:24:59 srv-01 sshd[9567]: Accepted password for carol from 203.0.113.4 port 63295 ssh2
+Jan 12 06:56:06 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 05:13:01 srv-01 sshd[6123]: Failed password for bob from 203.0.113.18 port 44071 ssh2
+Jan 12 15:55:54 web-03 sshd[3712]: Failed password for carol from 198.51.100.32 port 41879 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 01:05:34 srv-01 sshd[6378]: Failed password for carol from 203.0.113.31 port 28267 ssh2
+Jan 12 17:44:36 web-03 sshd[3716]: Accepted password for deploy from 198.51.100.22 port 41808 ssh2
+Jan 12 05:24:46 srv-02 sshd[8692]: Failed password for root from 198.51.100.2 port 18306 ssh2
+Jan 12 08:40:02 web-03 sshd[2478]: Accepted password for oracle from 198.51.100.7 port 55398 ssh2
+Jan 12 11:41:39 web-03 sshd[3905]: Accepted password for alice from 203.0.113.30 port 42563 ssh2
+Jan 12 22:38:48 srv-01 sshd[3571]: Failed password for root from 203.0.113.23 port 10534 ssh2
+Jan 12 10:08:22 srv-02 sshd[1783]: Invalid user oraclex from 203.0.113.15 port 56805
+Jan 12 02:32:58 srv-01 sshd[4807]: Invalid user bobx from 203.0.113.8 port 52090
+Jan 12 02:22:53 web-03 sshd[9724]: Failed password for carol from 198.51.100.7 port 3101 ssh2
+Jan 12 22:43:27 srv-01 sshd[3629]: Failed password for carol from 198.51.100.17 port 7721 ssh2
+Jan 12 09:32:05 srv-01 sshd[2199]: Accepted password for ubuntu from 203.0.113.10 port 54747 ssh2
+Jan 12 10:18:50 srv-01 sshd[4284]: Failed password for admin from 203.0.113.32 port 2887 ssh2
+Jan 12 13:30:01 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 18:45:06 srv-01 sshd[4918]: Accepted password for deploy from 203.0.113.25 port 13997 ssh2
+Jan 12 13:30:42 web-03 sshd[7686]: Failed password for deploy from 198.51.100.66 port 40014 ssh2
+Jan 12 10:54:30 srv-01 sshd[3753]: Connection closed by authenticating user alice 198.51.100.26 port 29176 [preauth]
+Jan 12 13:30:39 web-03 sshd[2185]: Failed password for admin from 198.51.100.66 port 40013 ssh2
+Jan 12 22:50:45 web-03 sshd[1339]: Accepted password for admin from 198.51.100.30 port 26699 ssh2
+Jan 12 22:40:28 web-03 sshd[5658]: Failed password for admin from 203.0.113.10 port 53954 ssh2
+Jan 12 09:26:44 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 03:14:20 srv-01 sshd[5257]: Failed password for root from 203.0.113.7 port 51238 ssh2
+Jan 12 22:29:37 srv-01 sudo:    carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 02:52:27 srv-01 sshd[1180]: Failed password for root from 203.0.113.19 port 38310 ssh2
+Jan 12 03:42:27 srv-02 sshd[3091]: Failed password for bob from 198.51.100.2 port 49725 ssh2
+Jan 12 03:12:31 srv-02 sshd[3155]: Invalid user deployx from 198.51.100.19 port 29775
+Jan 12 02:16:38 srv-02 sshd[4840]: Accepted password for root from 203.0.113.15 port 38431 ssh2
+Jan 12 19:01:43 srv-01 sshd[3767]: Accepted password for carol from 203.0.113.18 port 63055 ssh2
+Jan 12 10:13:40 web-03 sshd[1999]: Invalid user bobx from 198.51.100.36 port 44658
+Jan 12 13:30:30 web-03 sshd[1321]: Failed password for postgres from 198.51.100.66 port 40010 ssh2
+Jan 12 06:58:10 web-03 sshd[7593]: Connection closed by authenticating user oracle 198.51.100.27 port 19064 [preauth]
+Jan 12 02:13:47 web-03 sshd[7358]: Accepted password for root from 198.51.100.2 port 48620 ssh2
+Jan 12 00:37:48 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 16:05:41 srv-02 sshd[1953]: Accepted password for ubuntu from 2001:db8::1 port 1214 ssh2
+Jan 12 03:55:10 srv-02 sshd[4709]: Accepted password for alice from 198.51.100.34 port 32508 ssh2
+Jan 12 16:54:38 srv-01 sshd[9957]: Accepted password for alice from 198.51.100.30 port 36092 ssh2
+Jan 12 13:07:22 srv-02 sshd[3970]: Accepted password for deploy from 203.0.113.24 port 54915 ssh2
+Jan 12 03:33:12 srv-01 sshd[7112]: Failed password for ubuntu from 203.0.113.26 port 61273 ssh2
+Jan 12 20:05:10 srv-02 sshd[2856]: Failed password for deploy from 192.0.2.200 port 33002 ssh2
+Jan 12 18:43:12 web-03 sshd[7385]: Accepted password for admin from 198.51.100.27 port 48735 ssh2
+Jan 12 00:59:11 web-03 sshd[7652]: Accepted password for root from 198.51.100.20 port 53792 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 00:52:10 web-03 sshd[1708]: Invalid user deployx from 198.51.100.28 port 45037
+Jan 12 11:24:18 srv-02 sshd[9512]: Invalid user deployx from 198.51.100.25 port 34858
+Jan 12 14:57:22 srv-02 sshd[8884]: Failed password for deploy from 203.0.113.8 port 25520 ssh2
+Jan 12 04:04:44 srv-02 sudo:    root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 13:30:48 web-03 sshd[8555]: Failed password for alice from 198.51.100.66 port 40016 ssh2
+Jan 12 09:28:02 srv-02 sshd[5552]: Accepted password for root from 198.51.100.26 port 62828 ssh2
+Jan 12 13:22:18 web-03 sshd[6264]: Failed password for alice from 198.51.100.2 port 39616 ssh2
+Jan 12 20:39:51 web-03 sshd[1702]: Failed password for ubuntu from 203.0.113.30 port 47621 ssh2
+Jan 12 02:05:57 srv-01 sshd[5434]: Accepted password for alice from 198.51.100.6 port 43178 ssh2
+Jan 12 20:54:52 web-03 sshd[1321]: Invalid user ubuntux from 198.51.100.38 port 38998
+Jan 12 21:42:56 srv-02 sshd[9455]: Accepted password for admin from 198.51.100.39 port 4546 ssh2
+Jan 12 16:18:52 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 14:29:30 srv-01 sshd[9699]: Accepted password for ubuntu from 203.0.113.17 port 55450 ssh2
+Jan 12 00:02:56 web-03 sshd[6452]: Failed password for bob from 198.51.100.37 port 11882 ssh2
+Jan 12 00:24:58 srv-02 sshd[5145]: Accepted password for admin from 203.0.113.26 port 36441 ssh2
+Jan 12 12:34:21 srv-01 sshd[1307]: Accepted password for deploy from 198.51.100.19 port 62539 ssh2
+Jan 12 01:11:19 web-03 sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 14:40:59 srv-02 sshd[2260]: Failed password for bob from 2001:db8::2 port 14062 ssh2
+Jan 12 14:51:34 srv-02 sudo:    ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 02:40:50 web-03 sshd[7492]: Accepted password for deploy from 198.51.100.24 port 21213 ssh2
+Jan 12 10:32:04 srv-02 sshd[2540]: Failed password for oracle from 2001:db8::1 port 48518 ssh2
+Jan 12 06:40:33 srv-02 sshd[5935]: Accepted password for root from 203.0.113.25 port 25365 ssh2
+Jan 12 03:20:02 srv-01 sshd[4028]: Invalid user alicex from 198.51.100.12 port 48154
+Jan 12 01:30:11 srv-02 sshd[4540]: Failed password for root from 198.51.100.10 port 22688 ssh2
+Jan 12 07:52:10 srv-01 sshd[8887]: Accepted password for alice from 203.0.113.20 port 1174 ssh2
+Jan 12 20:53:53 web-03 sshd[7351]: Accepted password for admin from 203.0.113.11 port 25142 ssh2
+Jan 12 21:25:01 srv-01 sshd[9613]: Accepted password for deploy from 203.0.113.21 port 30688 ssh2
+Jan 12 01:58:33 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 16:50:19 web-03 sshd[8432]: Failed password for oracle from 203.0.113.34 port 43888 ssh2
+Jan 12 19:58:54 web-03 sshd[4692]: Failed password for admin from 203.0.113.14 port 33771 ssh2
+Jan 12 18:14:58 srv-02 sshd[1034]: Accepted password for admin from 198.51.100.15 port 54965 ssh2
+Jan 12 15:24:28 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 22:37:24 web-03 sshd[9536]: Accepted password for carol from 198.51.100.39 port 62650 ssh2
+Jan 12 12:20:40 srv-02 sshd[3420]: Failed password for root from 198.51.100.18 port 50738 ssh2
+Jan 12 16:56:15 srv-01 sshd[7880]: Invalid user bobx from 198.51.100.38 port 28063
+Jan 12 16:02:07 srv-02 sshd[6031]: Accepted password for carol from 203.0.113.38 port 52031 ssh2
+Jan 12 03:29:29 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 21:02:14 srv-02 sshd[5361]: Accepted password for carol from 203.0.113.14 port 49716 ssh2
+Jan 12 16:11:40 web-03 sshd[6342]: Accepted password for oracle from 198.51.100.25 port 43355 ssh2
+Jan 12 20:42:35 web-03 sshd[7619]: Failed password for alice from 203.0.113.6 port 12260 ssh2
+Jan 12 18:16:40 srv-02 sshd[9191]: Invalid user bobx from 203.0.113.39 port 4490
+Jan 12 06:05:16 srv-01 sshd[2409]: Accepted password for carol from 203.0.113.27 port 49448 ssh2
+Jan 12 22:45:09 srv-02 sshd[4713]: Failed password for carol from 198.51.100.3 port 60886 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 17:04:34 srv-01 sshd[4034]: Failed password for deploy from 203.0.113.18 port 50545 ssh2
+Jan 12 07:45:37 web-03 sshd[6206]: Accepted password for alice from 198.51.100.34 port 9715 ssh2
+Jan 12 05:53:06 srv-01 sshd[4936]: Accepted password for deploy from 203.0.113.19 port 54995 ssh2
+Jan 12 22:28:47 web-03 sshd[7335]: Invalid user oraclex from 203.0.113.26 port 28684
+Jan 12 15:19:39 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 09:01:27 web-03 sshd[9568]: Accepted password for carol from 198.51.100.2 port 19660 ssh2
+Jan 12 14:00:00 web-03 sshd[5516]: Accepted password for carol from 2001:db8::2 port 14123 ssh2
+Jan 12 13:57:58 srv-02 sudo:    bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 12:51:16 srv-01 sshd[1679]: Accepted password for carol from 203.0.113.18 port 13056 ssh2
+Jan 12 02:28:38 srv-02 sshd[5296]: Accepted password for deploy from 203.0.113.10 port 42839 ssh2
+Jan 12 19:31:43 srv-01 sshd[6312]: Accepted password for ubuntu from 203.0.113.12 port 53067 ssh2
+Jan 12 06:46:27 srv-02 sudo:    carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 03:14:35 srv-01 sshd[4068]: Failed password for admin from 203.0.113.7 port 51241 ssh2
+Jan 12 08:39:12 srv-01 sshd[4167]: Accepted password for deploy from 203.0.113.18 port 61997 ssh2
+Jan 12 13:42:51 srv-02 sshd[8855]: Accepted password for deploy from 203.0.113.21 port 38235 ssh2
+Jan 12 06:27:32 srv-02 sshd[5457]: Failed password for ubuntu from 198.51.100.8 port 62059 ssh2
+Jan 12 08:05:14 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 04:40:26 srv-02 sshd[2656]: Accepted password for ubuntu from 203.0.113.19 port 7786 ssh2
+Jan 12 05:36:18 web-03 sshd[9607]: Accepted password for ubuntu from 203.0.113.39 port 60251 ssh2
+Jan 12 16:20:34 srv-02 sshd[7910]: Failed password for ubuntu from 203.0.113.31 port 48008 ssh2
+Jan 12 16:04:56 web-03 sshd[6432]: Failed password for deploy from 203.0.113.2 port 1629 ssh2
+Jan 12 04:37:09 web-03 sshd[5289]: Accepted password for root from 203.0.113.16 port 36144 ssh2
+Jan 12 11:48:35 srv-01 sshd[6881]: Connection closed by authenticating user alice 198.51.100.21 port 57136 [preauth]
+Jan 12 12:21:59 srv-02 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 16:32:48 srv-02 sshd[6703]: Accepted password for oracle from 198.51.100.14 port 31222 ssh2
+Jan 12 08:49:26 srv-02 sshd[6142]: Accepted password for root from 198.51.100.27 port 8915 ssh2
+Jan 12 06:32:03 web-03 sshd[5050]: Connection closed by authenticating user root 198.51.100.32 port 53687 [preauth]
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 05:43:33 srv-02 sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 04:31:49 srv-02 sshd[8173]: Failed password for ubuntu from 203.0.113.5 port 27267 ssh2
+Jan 12 06:35:43 srv-02 sshd[6865]: Accepted password for admin from 198.51.100.12 port 3637 ssh2
+Jan 12 14:38:27 srv-01 sshd[1292]: Accepted password for carol from 198.51.100.13 port 34116 ssh2
+Jan 12 15:15:30 srv-02 sshd[4848]: Accepted password for ubuntu from 198.51.100.23 port 6905 ssh2
+Jan 12 11:00:56 srv-02 sshd[7685]: Failed password for ubuntu from 198.51.100.2 port 36366 ssh2
+Jan 12 13:30:06 web-03 sshd[7069]: Failed password for deploy from 198.51.100.66 port 40002 ssh2
+Jan 12 12:46:32 srv-02 sshd[8132]: Accepted password for alice from 198.51.100.8 port 14635 ssh2
+Jan 12 15:27:52 srv-02 sshd[2393]: Accepted password for alice from 198.51.100.11 port 41531 ssh2
+Jan 12 06:09:44 web-03 sshd[2213]: Failed password for deploy from 203.0.113.23 port 3659 ssh2
+Jan 12 12:53:09 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 09:47:07 web-03 sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 14:21:45 web-03 sshd[3183]: Invalid user oraclex from 198.51.100.11 port 34351
+Jan 12 22:46:44 srv-01 sshd[1822]: Accepted password for oracle from 2001:db8::2 port 27058 ssh2
+Jan 12 13:18:59 web-03 sshd[1107]: Connection closed by authenticating user admin 198.51.100.9 port 28734 [preauth]
+Jan 12 15:09:39 srv-02 sshd[8903]: Accepted password for admin from 198.51.100.10 port 39950 ssh2
+Jan 12 10:31:10 srv-01 sshd[5777]: Failed password for alice from 198.51.100.14 port 20134 ssh2
+Jan 12 12:43:57 web-03 sshd[8570]: Accepted password for deploy from 198.51.100.25 port 61433 ssh2
+Jan 12 11:14:24 web-03 sshd[9153]: Accepted password for deploy from 203.0.113.24 port 16019 ssh2
+Jan 12 21:54:21 srv-02 sshd[8048]: Failed password for carol from 203.0.113.2 port 30584 ssh2
+Jan 12 00:30:32 srv-02 sshd[4628]: Failed password for carol from 198.51.100.18 port 11491 ssh2
+Jan 12 07:08:55 srv-01 sshd[2683]: Accepted password for alice from 198.51.100.12 port 16240 ssh2
+Jan 12 04:50:23 srv-02 sshd[9952]: Accepted password for ubuntu from 203.0.113.30 port 5878 ssh2
+Jan 12 22:34:40 srv-02 sshd[7389]: Failed password for admin from 203.0.113.36 port 24911 ssh2
+Jan 12 21:40:05 srv-02 sshd[1220]: Invalid user rootx from 203.0.113.7 port 49578
+Jan 12 18:29:45 srv-02 sshd[6379]: Accepted password for admin from 203.0.113.13 port 8467 ssh2
+Jan 12 03:01:33 srv-02 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 00:35:17 web-03 sshd[4147]: Accepted password for bob from 203.0.113.7 port 40342 ssh2
+Jan 12 07:20:53 web-03 sshd[6901]: Accepted password for root from 203.0.113.16 port 17993 ssh2
+Jan 12 19:42:21 srv-01 sshd[5365]: Failed password for ubuntu from 203.0.113.38 port 54954 ssh2
+Jan 12 08:18:36 srv-01 sshd[1688]: Failed password for admin from 198.51.100.22 port 54863 ssh2
+Jan 12 21:44:30 srv-02 sshd[3993]: Accepted password for bob from 198.51.100.26 port 63720 ssh2
+Jan 12 12:35:26 web-03 sshd[5961]: Invalid user adminx from 203.0.113.12 port 58039
+Jan 12 05:27:28 srv-01 sshd[2475]: Accepted password for oracle from 203.0.113.34 port 42547 ssh2
+Jan 12 15:05:17 srv-02 sshd[5279]: Connection closed by authenticating user admin 203.0.113.27 port 30588 [preauth]
+Jan 12 21:46:26 web-03 sshd[3207]: Accepted password for alice from 198.51.100.15 port 12317 ssh2
+Jan 12 04:22:44 web-03 sshd[6605]: Connection closed by authenticating user root 203.0.113.29 port 16307 [preauth]
+Jan 12 20:22:10 srv-01 sshd[7760]: Accepted password for bob from 203.0.113.34 port 52646 ssh2
+Jan 12 06:43:01 srv-02 sudo:    root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 11:19:21 web-03 sshd[8990]: Connection closed by authenticating user root 198.51.100.30 port 51672 [preauth]
+Jan 12 05:56:09 srv-01 sshd[7147]: Connection closed by authenticating user carol 203.0.113.10 port 47702 [preauth]
+Jan 12 18:11:54 srv-02 sshd[8687]: Accepted password for carol from 198.51.100.11 port 53827 ssh2
+Jan 12 20:57:17 srv-01 sshd[9165]: Failed password for oracle from 198.51.100.38 port 48057 ssh2
+Jan 12 01:16:08 srv-02 sshd[1211]: Invalid user bobx from 203.0.113.6 port 22153
+Jan 12 20:19:56 web-03 sshd[5685]: Invalid user adminx from 198.51.100.27 port 38305
+Jan 12 20:07:05 srv-01 sshd[6004]: Accepted password for oracle from 198.51.100.18 port 52223 ssh2
+Jan 12 05:59:55 web-03 sshd[7339]: Connection closed by authenticating user bob 203.0.113.26 port 41652 [preauth]
+Jan 12 07:55:01 web-03 sshd[2920]: Accepted password for ubuntu from 203.0.113.12 port 58964 ssh2
+Jan 12 15:46:24 web-03 sshd[5367]: Accepted password for oracle from 203.0.113.23 port 54470 ssh2
+Jan 12 19:40:24 srv-01 sshd[8361]: Failed password for bob from 203.0.113.25 port 9433 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 04:42:57 srv-02 sshd[7019]: Accepted password for root from 198.51.100.32 port 53588 ssh2
+Jan 12 17:15:44 srv-01 sshd[8593]: Accepted password for root from 203.0.113.5 port 55724 ssh2
+Jan 12 10:28:12 srv-02 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 21:35:12 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 18:25:44 web-03 sshd[5904]: Failed password for ubuntu from 198.51.100.27 port 55473 ssh2
+Jan 12 01:34:42 srv-01 sshd[9374]: Accepted password for bob from 2001:db8::1 port 30389 ssh2
+Jan 12 13:20:35 srv-02 sudo:    bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 17:49:10 srv-01 sshd[7380]: Accepted password for ubuntu from 203.0.113.13 port 46981 ssh2
+Jan 12 16:30:04 web-03 sshd[2376]: Accepted password for deploy from 203.0.113.13 port 28539 ssh2
+Jan 12 06:29:13 srv-01 sshd[5928]: Invalid user carolx from 198.51.100.27 port 42354
+Jan 12 18:24:10 srv-01 sshd[2377]: Invalid user rootx from 203.0.113.7 port 22374
+Jan 12 02:26:53 srv-01 sshd[6579]: Accepted password for deploy from 198.51.100.15 port 39969 ssh2
+Jan 12 15:12:30 srv-02 sshd[7411]: Failed password for oracle from 198.51.100.32 port 33674 ssh2
+Jan 12 06:45:39 web-03 sshd[4600]: Accepted password for carol from 198.51.100.4 port 8780 ssh2
+Jan 12 20:56:37 srv-02 sshd[7877]: Accepted password for alice from 198.51.100.3 port 47982 ssh2
+Jan 12 00:40:41 web-03 sshd[2406]: Accepted password for alice from 203.0.113.32 port 47446 ssh2
+Jan 12 07:57:14 srv-02 sshd[3282]: Accepted password for ubuntu from 198.51.100.12 port 34971 ssh2
+Jan 12 13:30:54 web-03 sshd[8243]: Failed password for carol from 198.51.100.66 port 40018 ssh2
+Jan 12 05:32:55 srv-01 sshd[3157]: Accepted password for carol from 203.0.113.7 port 26553 ssh2
+Jan 12 18:34:05 srv-02 sudo:    deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jan 12 03:55:57 srv-01 sshd[5435]: Accepted password for deploy from 203.0.113.14 port 39362 ssh2
+Jan 12 14:05:59 srv-01 sshd[3686]: Accepted password for ubuntu from 203.0.113.24 port 38125 ssh2
+Jan 12 13:49:56 srv-02 sshd[8638]: Accepted password for root from 198.51.100.13 port 46124 ssh2
+Jan 12 21:19:52 web-03 sshd[3868]: Invalid user alicex from 203.0.113.32 port 31140
+Jan 12 18:47:57 srv-02 sshd[6489]: Connection closed by authenticating user admin 198.51.100.39 port 11918 [preauth]
+Jan 12 12:57:39 srv-01 sshd[7219]: Connection closed by authenticating user carol 203.0.113.17 port 19610 [preauth]
+Jan 12 21:20:47 srv-02 sshd[7835]: Accepted password for bob from 198.51.100.2 port 3699 ssh2
+Jan 12 13:30:33 web-03 sshd[6728]: Failed password for mysql from 198.51.100.66 port 40011 ssh2
+Jan 12 10:26:37 srv-01 sshd[8476]: Connection closed by authenticating user ubuntu 198.51.100.15 port 21305 [preauth]
+Jan 12 02:38:54 web-03 sshd[5522]: Accepted password for ubuntu from 198.51.100.33 port 56977 ssh2
+Jan 12 08:02:39 srv-01 sshd[5606]: Accepted password for carol from 198.51.100.30 port 60279 ssh2
+Jan 12 17:37:10 web-03 sshd[1393]: Accepted password for bob from 203.0.113.11 port 29876 ssh2
+Jan 12 21:07:54 web-03 sshd[1062]: Accepted password for root from 203.0.113.16 port 23343 ssh2
+Jan 12 17:54:41 srv-01 sshd[3255]: Accepted password for bob from 203.0.113.11 port 5205 ssh2
+Jan 12 01:17:02 srv-01 sshd[7909]: Connection closed by authenticating user root 198.51.100.11 port 41864 [preauth]
+Jan 12 05:00:54 srv-02 sshd[8512]: Failed password for deploy from 198.51.100.4 port 62445 ssh2
+Jan 12 13:18:18 web-03 sshd[8714]: Accepted password for bob from 198.51.100.25 port 49693 ssh2
+Jan 12 20:13:13 srv-02 sshd[6893]: Accepted password for ubuntu from 203.0.113.33 port 6398 ssh2
+Jan 12 03:14:05 srv-01 sshd[5178]: Failed password for admin from 203.0.113.7 port 51235 ssh2
+Jan 12 15:50:30 srv-02 sshd[7467]: Accepted password for admin from 198.51.100.33 port 9741 ssh2
+Jan 12 06:30:00 srv-02 sshd[3775]: Failed password for oracle from 192.0.2.99 port 34004 ssh2
+Jan 12 17:22:04 srv-01 sshd[4871]: Invalid user bobx from 203.0.113.16 port 14307
+Jan 12 20:26:15 srv-01 sshd[6273]: Accepted password for admin from 198.51.100.18 port 13326 ssh2
+Jan 12 04:51:33 web-03 sshd[7150]: Invalid user rootx from 203.0.113.24 port 10017
+Jan 12 16:09:08 srv-02 sshd[8210]: Accepted password for oracle from 198.51.100.13 port 45770 ssh2
+Jan 12 06:13:43 srv-01 sshd[5285]: Accepted password for alice from 198.51.100.28 port 11955 ssh2
+Jan 12 06:07:14 srv-01 sshd[8194]: Accepted password for oracle from 203.0.113.18 port 7229 ssh2
+Jan 12 00:29:18 srv-01 sshd[4137]: Accepted password for bob from 2001:db8::1 port 15032 ssh2
+Jan 12 07:34:33 srv-01 sshd[7562]: Accepted password for admin from 198.51.100.7 port 8969 ssh2
+Jan 12 03:07:28 web-03 sshd[5334]: Accepted password for oracle from 203.0.113.37 port 46082 ssh2
+Jan 12 17:56:41 web-03 sshd[6359]: Accepted password for alice from 198.51.100.33 port 38631 ssh2
+Jan 12 09:22:32 web-03 sshd[1846]: Accepted password for ubuntu from 198.51.100.9 port 42505 ssh2
+Jan 12 15:54:24 srv-01 sshd[3532]: Accepted password for oracle from 198.51.100.36 port 13941 ssh2
+Jan 12 03:37:46 srv-01 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 13:05:32 web-03 sshd[8759]: Accepted password for ubuntu from 203.0.113.39 port 50076 ssh2
+Jan 12 11:36:53 srv-01 sshd[1633]: Failed password for root from 198.51.100.22 port 22200 ssh2
+Jan 12 14:15:26 srv-01 sshd[3695]: Accepted password for carol from 203.0.113.3 port 57136 ssh2
+Jan 12 18:35:24 srv-02 sshd[4968]: Accepted password for carol from 198.51.100.10 port 5355 ssh2
+Jan 12 20:46:50 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 01:49:35 web-03 sshd[4031]: Accepted password for carol from 198.51.100.15 port 54240 ssh2
+-- rotasi log: berkas log di-truncate oleh logrotate --
+Jan 12 07:28:55 srv-01 sshd[3046]: Failed password for root from 198.51.100.23 port 5011 ssh2
+Jan 12 13:30:03 web-03 sshd[8951]: Failed password for admin from 198.51.100.66 port 40001 ssh2
+Jan 12 22:15:01 srv-01 sshd[4143]: Accepted password for alice from 203.0.113.35 port 31679 ssh2
+Jan 12 13:36:23 web-03 cron[9999]: (root) CMD (/usr/local/bin/backup.sh)
+Jan 12 08:17:54 srv-02 sshd[7848]: Accepted password for deploy from 203.0.113.39 port 5805 ssh2
