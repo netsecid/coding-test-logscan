@@ -10,8 +10,8 @@ Semua kandidat mengerjakan tugas yang sama: membangun CLI analisis log autentika
 ## 1. Mulai dari sini
 
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/netsecid/coding-test-logscan.git
+cd coding-test-logscan
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
